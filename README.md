@@ -60,32 +60,13 @@ git clone https://github.com/sypha999/SimpleTodo.git
 cd SimpleTodo
 ```
 
-## Install dependencies
-
-```bash
-npm install
-```
-
----
 
 # Running the Project
 
-## Compile TypeScript
+run directly with ts-node:
 
 ```bash
-npx tsc
-```
-
-## Run the application
-
-```bash
-node dist/index.js
-```
-
-Or run directly with ts-node:
-
-```bash
-npx ts-node src/index.ts
+npx ts-node index.ts
 ```
 
 ---
