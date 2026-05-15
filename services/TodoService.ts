@@ -1,5 +1,5 @@
-const { TodoItem } = require('../interfaces/TodoItem');
-const { TodoError } = require('../errors/TodoError');
+import { TodoItem } from '../interfaces/TodoItem';
+import { TodoError } from '../exceptions/TodoError';
 
 export class TodoService {
     private todos: TodoItem[] = [];
