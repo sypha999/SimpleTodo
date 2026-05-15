@@ -162,28 +162,3 @@ try {
 
 ---
 
-# Design Principles
-
-This project follows SOLID principles:
-- Single Responsibility Principle
-- Encapsulation
-- Separation of Concerns
-- Modular Design
-
----
-
-# Future Improvements
-
-- Database integration
-- REST API support
-- Unit testing
-- Task priorities
-- Categories and tags
-- Persistent storage
-- Authentication
-
----
-
-# License
-
-This project is for educational purposes.
